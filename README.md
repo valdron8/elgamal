@@ -1,6 +1,6 @@
 # Elgamal signature algorithm (EGSA)
 
-### Try it [here](https://burnedscarecrow.github.io/elgamal/)
+### Try it [here](https://valdron8.github.io/elgamal/)
 
 ## Project setup
 
